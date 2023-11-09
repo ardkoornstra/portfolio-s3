@@ -1,14 +1,14 @@
 # Portfolio S3 Ard Koornstra
 
-This repository is the portfolio of Ard Koornstra, created for semester 3 of the Associate Degree ICT at Fontys Hogescholen. It contains information about software projects, and proof for the learning outcomes.
+This repository is the portfolio of Ard Koornstra, created for Semester 3 Software of the Associate Degree ICT at Fontys Hogescholen. It contains information about software projects, and proof for the learning outcomes.
 
 ## Software repositories
 
-As part of this semester, I have created an individual project and paarticipated in a group project. Below are links to the repositories with the code of these projects.
+As part of this semester, I have created an individual project and participated in a group project. Below are links to the repositories with the code of these projects.
 
 ### Individual Project
 
-(link here)
+<https://github.com/ardkoornstra/individual-project-s3>
 
 ### Group Project
 
